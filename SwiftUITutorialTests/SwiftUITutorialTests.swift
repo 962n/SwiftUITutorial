@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import SwiftUITutorial
+//@testable import SwiftUITutorial
 
 class SwiftUITutorialTests: XCTestCase {
 
